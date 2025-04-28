@@ -26,8 +26,7 @@ Go Todo CLI is a command-line application that helps you manage your tasks effic
 
 1.  **Clone the repository or download the source code:**
     ```bash
-    git clone [https://github.com/rajkundalia/go-todo](https://github.com/yourusername/go-todo)
-    ```
+    git clone https://github.com/rajkundalia/go-todo
 
 2.  **Change to the project directory:**
     ```bash
